@@ -21,5 +21,4 @@
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-```clojure
-(def preferred-lang ["clojure" "elixir" "ruby"])
+
