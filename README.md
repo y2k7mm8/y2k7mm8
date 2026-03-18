@@ -21,6 +21,4 @@ Comedian, writer, developer, billionaire, liar... for hire!
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 
